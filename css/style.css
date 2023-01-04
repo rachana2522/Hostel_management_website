@@ -1,0 +1,71 @@
+body{
+}
+.navigationMenu .navbar-nav .dropdown:hover .dropdown-menu {
+  display: block;
+}
+.container .row {
+  padding : 34px 0;
+}
+/* .containerFluidTestimonials {
+    padding: 7% 15%;
+} */
+.navigationMenu ul li {
+  padding : 4px 8px;
+}
+.containerFluidTestimonials .carousel-inner .carousel-item {
+  height: 400px;
+  text-align: center;
+}
+.secondRow {
+  justify-content: center;
+}
+.display-4 {
+  font-size: 2.5rem;
+}
+.lead{
+  font-size: 1rem;
+}
+.card-img-top{
+  height: 180px;
+}
+.column  {
+  /* border: 2px solid red; */
+  padding: 15px;
+}
+.card {
+  box-shadow: 0 4px 4px 0 rgba(0 , 0 , 0 , 0.4);
+}
+/* testimonial section  */
+/* .colored-section {
+    background-color: #ff4c68;
+    color: #fff;
+}
+#testimonials {
+    background-color: #ef8172;
+}
+.padding {
+    padding: 7% 15%;
+}
+.testimonial-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+} */
+
+
+/* footer base */
+.footer-base {
+    text-align: center;
+    color: #999;
+    padding-top: 50px;
+  }
+  .socials .button1 {
+    display: inline-block;
+    height: 50px;
+    width: 60px;
+    color: #999;
+}
